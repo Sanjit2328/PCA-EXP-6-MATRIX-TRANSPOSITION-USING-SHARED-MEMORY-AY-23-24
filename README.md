@@ -44,19 +44,14 @@ Google Colab with NVCC Compiler
         9.1.6 setRowReadColPad: Similar to setRowReadCol, but with padding to avoid bank conflicts
         9.1.7 setRowReadColDynPad: Similar to setRowReadColPad, but with dynamic shared memory allocation
 10. End Kernel Execution
-
 11. Begin Memory Copy
     11.1 After each kernel execution, copy the output array from device memory to host memory
 12. End Memory Copy
-
 13. Begin Memory Free
     13.1 Free the device memory and host memory
 14. End Memory Free
-
 15. Reset the device
-
 16. End of Algorithm
-
 ## PROGRAM:
 ```
 %%cuda
