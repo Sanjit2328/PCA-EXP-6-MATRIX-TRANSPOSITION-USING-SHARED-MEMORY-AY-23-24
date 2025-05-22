@@ -3,6 +3,7 @@
 <h3>REGISTER NO: 212223230190</h3>
 <h3>EX NO:06</h3>
 <h3>DATE:</h3>
+
 ## AIM:
 To perform Matrix Multiplication using Transposition using shared memory.
 
