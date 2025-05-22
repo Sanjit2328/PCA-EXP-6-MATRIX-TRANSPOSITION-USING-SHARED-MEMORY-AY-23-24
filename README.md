@@ -393,7 +393,7 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 ```
 ## OUTPUT:
 
-![alt text](328761736-400b8ee7-c1b0-420a-a101-ec73fc820c0c.png)
+![Screenshot 2025-05-17 113612](https://github.com/user-attachments/assets/f683175b-0904-450d-bfea-99a19eb3d90c)
 
 
 ## RESULT:
