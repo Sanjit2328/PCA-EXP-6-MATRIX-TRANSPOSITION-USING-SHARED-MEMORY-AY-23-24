@@ -393,9 +393,7 @@ CHECK(cudaMemset(d_C, 0, nBytes));
 }
 ```
 ## OUTPUT:
-
 ![Screenshot 2025-05-17 113612](https://github.com/user-attachments/assets/f683175b-0904-450d-bfea-99a19eb3d90c)
-
 
 ## RESULT:
 The Matrix transposition on shared memory with grid (1,1) block (16,16) is demonstrated successfully.
